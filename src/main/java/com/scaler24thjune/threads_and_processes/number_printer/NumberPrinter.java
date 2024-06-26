@@ -1,4 +1,4 @@
-package com.scaler24thjune.threads_and_processes;
+package com.scaler24thjune.threads_and_processes.number_printer;
 
 public class NumberPrinter implements Runnable {
     private int start;
