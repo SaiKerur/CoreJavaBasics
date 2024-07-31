@@ -10,6 +10,7 @@ public class Fish extends Animal implements Swimmable {
         System.out.println(name + " makes bubbles");
     }
 
+
     @Override
     public void swim() {
         System.out.println(name + " is swimming");
